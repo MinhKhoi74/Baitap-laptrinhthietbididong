@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "400326450130",
+    "project_id": "bai1-e1bf7",
+    "storage_bucket": "bai1-e1bf7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400326450130:android:75bb4de35bd0b12b08860b",
+        "android_client_info": {
+          "package_name": "com.example.tuan3_bai2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkNqgh2p78egFFM4I3AWvS7qZP_74c1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
